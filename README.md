@@ -1,5 +1,5 @@
 <div align="center">
-<h3> https://zheensuseyi.github.io/zheen-website/ </h3>
-<h1> A Simple and Minimalist LinkTree Style Website (for now.....) </h1>
-<p> My website is constantly evolving! Hopefully I will remember to update the README.....</p>
+<h1> https://zheensuseyi.github.io/zheen-website/ </h1>
+<h2> A Simple and Minimalist LinkTree Style Website (for now.....) </h2>
+<h3> My website is constantly evolving! Hopefully I will remember to update the README.....</h3>
 </div>
