@@ -31,6 +31,5 @@ function toggleContent2() {
         content.style.display = "block"; // Show the content
     }
 }
-
 shareButtons.forEach(shareButton =>
     shareButton.addEventListener('click', copyText))
