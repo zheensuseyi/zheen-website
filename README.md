@@ -1,5 +1,4 @@
 <div align="center">
-<h1> Majority of the Website was built by following Ania Kubów's YouTube Tutorial: </h1>
-<h1> <a  href="https://youtu.be/GRgt5efpmdM?si=bSHENK3ijKPgF3v- ">Link To Tutorial </a> </h1>
-<h1> Along with some additional features by me!</h1>
+<h1> A Simple and Minimalist LinkTree Style Website (for now.....) </h1>
+<h1> My website is constantly evolving! Hopefully I will remember to update the README.....</h1>
 </div>
